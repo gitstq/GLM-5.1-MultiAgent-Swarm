@@ -1,0 +1,18 @@
+[
+  "tests/test_core.py::TestAgent::test_agent_add_message",
+  "tests/test_core.py::TestAgent::test_agent_to_dict",
+  "tests/test_core.py::TestAgent::test_agent_update_state",
+  "tests/test_core.py::TestAgent::test_create_agent",
+  "tests/test_core.py::TestMessage::test_create_message",
+  "tests/test_core.py::TestMessage::test_message_to_dict",
+  "tests/test_core.py::TestMessageBus::test_create_message_bus",
+  "tests/test_core.py::TestMessageBus::test_send_message",
+  "tests/test_core.py::TestMessageBus::test_subscribe",
+  "tests/test_core.py::TestProtocol::test_request_response_protocol",
+  "tests/test_core.py::TestSwarmOrchestrator::test_add_task",
+  "tests/test_core.py::TestSwarmOrchestrator::test_assign_task",
+  "tests/test_core.py::TestSwarmOrchestrator::test_create_agent",
+  "tests/test_core.py::TestSwarmOrchestrator::test_create_default_team",
+  "tests/test_core.py::TestSwarmOrchestrator::test_create_swarm",
+  "tests/test_core.py::TestSwarmOrchestrator::test_get_status"
+]
